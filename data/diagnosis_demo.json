@@ -1,0 +1,153 @@
+[
+  {
+    "patient_id": "P0001",
+    "true_phenotype": "Mitochondrial myopathy",
+    "suggested_phenotype": "Mitochondrial myopathy",
+    "suggestion_confidence": 1.0,
+    "nearest_neighbors": [
+      {
+        "patient_id": "P0010",
+        "phenotype": "Mitochondrial myopathy",
+        "similarity": 0.8159
+      },
+      {
+        "patient_id": "P0006",
+        "phenotype": "Mitochondrial myopathy",
+        "similarity": 0.7827
+      },
+      {
+        "patient_id": "P0002",
+        "phenotype": "Mitochondrial myopathy",
+        "similarity": 0.7823
+      },
+      {
+        "patient_id": "P0004",
+        "phenotype": "Mitochondrial myopathy",
+        "similarity": 0.7761
+      },
+      {
+        "patient_id": "P0008",
+        "phenotype": "Mitochondrial myopathy",
+        "similarity": 0.7647
+      }
+    ],
+    "shared_pathway_genes_with_suggestion": [
+      "GENE0130",
+      "GENE0188",
+      "GENE0212",
+      "GENE0235",
+      "GENE0265",
+      "GENE0314",
+      "GENE0325",
+      "GENE0396",
+      "GENE0419",
+      "GENE0425",
+      "GENE0428",
+      "GENE0465",
+      "GENE0476",
+      "GENE0480",
+      "GENE0481",
+      "GENE0540",
+      "GENE0545",
+      "GENE0595",
+      "GENE0599"
+    ]
+  },
+  {
+    "patient_id": "P0027",
+    "true_phenotype": "Ciliopathy",
+    "suggested_phenotype": "Ciliopathy",
+    "suggestion_confidence": 1.0,
+    "nearest_neighbors": [
+      {
+        "patient_id": "P0035",
+        "phenotype": "Ciliopathy",
+        "similarity": 0.7875
+      },
+      {
+        "patient_id": "P0031",
+        "phenotype": "Ciliopathy",
+        "similarity": 0.7619
+      },
+      {
+        "patient_id": "P0034",
+        "phenotype": "Ciliopathy",
+        "similarity": 0.7616
+      },
+      {
+        "patient_id": "P0029",
+        "phenotype": "Ciliopathy",
+        "similarity": 0.7597
+      },
+      {
+        "patient_id": "P0033",
+        "phenotype": "Ciliopathy",
+        "similarity": 0.7176
+      }
+    ],
+    "shared_pathway_genes_with_suggestion": [
+      "GENE0012",
+      "GENE0116",
+      "GENE0118",
+      "GENE0182",
+      "GENE0186",
+      "GENE0218",
+      "GENE0293",
+      "GENE0297",
+      "GENE0307",
+      "GENE0329",
+      "GENE0383",
+      "GENE0394",
+      "GENE0412",
+      "GENE0504",
+      "GENE0514",
+      "GENE0556",
+      "GENE0579"
+    ]
+  },
+  {
+    "patient_id": "P0081",
+    "true_phenotype": "Peroxisomal disorder",
+    "suggested_phenotype": "Peroxisomal disorder",
+    "suggestion_confidence": 1.0,
+    "nearest_neighbors": [
+      {
+        "patient_id": "P0079",
+        "phenotype": "Peroxisomal disorder",
+        "similarity": 0.6613
+      },
+      {
+        "patient_id": "P0084",
+        "phenotype": "Peroxisomal disorder",
+        "similarity": 0.6455
+      },
+      {
+        "patient_id": "P0086",
+        "phenotype": "Peroxisomal disorder",
+        "similarity": 0.6353
+      },
+      {
+        "patient_id": "P0085",
+        "phenotype": "Peroxisomal disorder",
+        "similarity": 0.6084
+      },
+      {
+        "patient_id": "P0091",
+        "phenotype": "Peroxisomal disorder",
+        "similarity": 0.5939
+      }
+    ],
+    "shared_pathway_genes_with_suggestion": [
+      "GENE0026",
+      "GENE0045",
+      "GENE0051",
+      "GENE0068",
+      "GENE0155",
+      "GENE0164",
+      "GENE0286",
+      "GENE0317",
+      "GENE0355",
+      "GENE0502"
+    ]
+  }
+]
